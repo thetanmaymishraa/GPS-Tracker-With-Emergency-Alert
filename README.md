@@ -68,4 +68,4 @@ Feel free to fork this repository, make improvements, and create pull requests!
 
 ## Author
 ```markdown
-Developed by [Your Name]
+Developed by Tanmay Mishra
